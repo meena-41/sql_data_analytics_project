@@ -1,2 +1,2 @@
-# sql_data_analyttics_project
+# sql_data_analytics_project
 data anyltc project
